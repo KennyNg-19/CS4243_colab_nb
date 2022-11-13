@@ -6,11 +6,11 @@ __pycache__/
 *$py.class
 
 # data
-data/
+carrying/
+normal/
+threat/
 *.csv
 *.xlsx
-*.png
-*.pth
 
 # C extensions
 *.so
@@ -112,5 +112,3 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
-gcn_17_may_.py
-GCN_17_Maycopy.ipynb
